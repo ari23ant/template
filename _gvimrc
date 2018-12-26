@@ -1,0 +1,17 @@
+"以下はすべて独自設定であり、_gvimrcをgvimrcと同じディレクトリに置けばよい
+"ari23ant181220
+
+"Display
+colorscheme desert
+set background=dark
+syntax on           "シンタックスカラーリングを設定する
+set number          "行番号を表示する
+set title           "編集中のファイル名を表示する
+set showcmd         "入力中のコマンドを表示する
+set ruler           "座標を表示する
+set showmatch       "閉じ括弧の入力時に対応する括弧を表示する
+set matchtime=3     "showmatchの表示時間
+set laststatus=2    "ステータスラインを常に表示する
+set guifont=Ricty_Diminished:h15:cSHIFTJIS  "フォントをRicty_Diminishedに
+set rop=type:directx      "Ricty_Diminishedできれいに表示する
+set langmenu=ja_jp.utf-8  "UTF-8設定

@@ -1,16 +1,25 @@
 Diary
 =====
 
-
 yymmdd
 ------
+### Progress
 - [ ] hoge
 - [x] hogehuga
 - [ ] hogehugahoge
-
+### Future Work
+- [ ] fuga
+- [ ] fugafuga
+- [ ] fugafugafuga
 
 yymmdd
 ------
-- [x] hoge
-- [x] hogehuga
+### Progress
+- [ ] hoge
+- [ ] hogehuga
 - [ ] hogehugahoge
+### Future Work
+- [ ] fuga
+- [ ] fugafuga
+- [ ] fugafugafuga
+
